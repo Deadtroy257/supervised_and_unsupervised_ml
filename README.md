@@ -125,8 +125,4 @@ Ambas soluciones generan visualizaciones y análisis que se guardan en:
 
 ## Autores
 
-- [Tu Nombre]
-
-## Licencia
-
-Este proyecto está bajo la Licencia [especificar licencia]. 
+- Diego Castro (Iberoamericana)
